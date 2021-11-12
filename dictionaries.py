@@ -6,7 +6,7 @@ switchV = {
     "alive": True
 }
 switchV['squidGamer'] = False
-print(switchV)
+print(switchV["on"])
 
-switchV.pop("gender")
-print(switchV)
+# switchV.pop("gender")
+# print(switchV)
